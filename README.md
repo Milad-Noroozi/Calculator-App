@@ -25,8 +25,8 @@ A beautiful and functional calculator app built with Flutter using clean archite
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/flutter-calculator.git
-   cd flutter-calculator
+   git clone https://github.com/Milad-Noroozi/Calculator-App.git
+   cd Calculator-App
    ```
 
 2. **Install dependencies**
@@ -86,8 +86,7 @@ lib/
 
 ## 📱 Screenshots
 
-<!-- Add screenshots here -->
-*Screenshots coming soon...*
+![Image](https://github.com/user-attachments/assets/6123cb9b-f64b-4bca-883e-b8dae8b0a262)
 
 ## 🔧 Customization
 
